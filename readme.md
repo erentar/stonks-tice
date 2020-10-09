@@ -4,6 +4,7 @@
 Keys:<br>
 `[y=]` to buy stocks<br>
 `[graph]` to sell stocks<br>
+`[clear]` to exit<br>
 
 <br>
 
