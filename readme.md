@@ -12,6 +12,6 @@ Precompiled binaries will be in releases. You can download the game from there.
 
 ### build instructions
 1\. install the [CE-Programming C SDK](https://github.com/CE-Programming/toolchain)<br>
-2\. run `make`
+2\. run `cproto -q -I $CEDEV/include src/functions.c > src/functions.h 2>/dev/null;make`
 
 the output will be at bin/STONKS.8xp
